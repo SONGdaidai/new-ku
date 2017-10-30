@@ -150,3 +150,10 @@ body{
 	top: 251px;
 	transform: skewY(-15deg);
 }
+img{
+	position: fixed;
+	top: 8px;
+	left:225px;
+	width:350px;
+	height: 110px;
+}
